@@ -57,8 +57,8 @@
   <main>
     <h2>CIUDADANO...</h2>
 
-   <img src="cecyto.jpg" alt="Imagen del ciudadano">
-   <img src="equipo.jpg" alt="Imagen del ciudadano">
+   <img src="IMG-20251112-WA0002.jpg" alt="Imagen del ciudadano">
+   <img src="IMG-20251015-WA0021.jpg" alt="Imagen del ciudadano">
     <p>
       La participación ciudadana es uno de los pilares fundamentales de toda sociedad democrática. 
       A través de ella, las personas pueden influir en las decisiones públicas, expresar sus opiniones 
